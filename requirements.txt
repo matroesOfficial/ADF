@@ -1,0 +1,4 @@
+colorama
+fpdf2
+pygments
+pdfkit
